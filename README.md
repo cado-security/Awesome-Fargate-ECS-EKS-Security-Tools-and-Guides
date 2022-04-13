@@ -1,4 +1,5 @@
-# A curated list of Tools and Guides for Security in AWS Container Solutions - Fargate, ECS and EKS.
+# Awesome Fargate & ECS & EKS Security
+### A curated list of Tools and Guides for Security in AWS Container Solutions - Fargate, ECS and EKS.
 
 Want to add something? Open a PR!
 
